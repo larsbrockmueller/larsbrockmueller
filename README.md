@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @larsbrockmueller
-- 👀 I’m interested in PowerShell, Terminal, VSCode, VS, Batch, Bash, Python, PHP, SQL
-- 🌱 I’m currently learning Python, SQL
+- 👀 I’m interested in PowerShell, Terminal, VSCode, VS, Batch, Bash, Python, PHP, SQL, JS
+- 🌱 I’m currently learning Python, SQL, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
